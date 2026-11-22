@@ -1,3 +1,4 @@
+
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
 ![Last Commit](https://img.shields.io/github/last-commit/GraceDaw/cse103-lab-LAB3)
@@ -8,23 +9,22 @@
 
 ## Overview
 
-This repository contains lab work for **LAB 3** of the Computer Fundamentals & Career Pathways (CSE103) course at **K.R. Mangalam University**, Gurugram.
+This repository contains lab work for LAB 3 of the
+Computer Fundamentals & Career Pathways (CSE103) course at
+K.R. Mangalam University, Gurugram.
 
 ## Repository Structure
 
-```text
 cse103-lab-LAB3/
-├── README.md
-├── MARKDOWN_GUIDE.md
-├── CHANGELOG.md
-├── main.py
-└── .gitignore
-```
++-- README.md
++-- CHANGELOG.md
++-- main.py
++-- .gitignore
 
 ## Skills Demonstrated
 
 | Skill | Status |
-|---|---|
+|----------------------|-------------|
 | Git initialisation | Completed |
 | Meaningful commits | Completed |
 | Remote push / pull | Completed |
@@ -51,8 +51,4 @@ python3 main.py
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
-# My First Repository
 
-## Description
-CSE103 lab repository — LAB 3.
-This repository demonstrates Git and GitHub workflows.
